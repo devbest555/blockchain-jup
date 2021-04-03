@@ -1,0 +1,10 @@
+version: "3"
+services:
+  jupiter:
+    build: .
+    ports:
+      - "7864:7864"
+      - "7876:7876"
+    restart: always
+    volumes:
+      - ./:/apps/jupiter
