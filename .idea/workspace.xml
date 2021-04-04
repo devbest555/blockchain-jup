@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01b9074f-d8ee-452a-bc01-25945d572641" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$AbstractShufflingAttachment.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$AbstractShufflingAttachment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$AccountControlEffectiveBalanceLeasing.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$AccountControlEffectiveBalanceLeasing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsAskOrderCancellation.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsAskOrderCancellation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsAskOrderPlacement.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsAskOrderPlacement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsAssetDelete.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsAssetDelete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsAssetIssuance.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsAssetIssuance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsAssetTransfer.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsAssetTransfer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsBidOrderCancellation.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsBidOrderCancellation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsBidOrderPlacement.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsBidOrderPlacement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsDividendPayment.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsDividendPayment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsOrderCancellation.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsOrderCancellation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsOrderPlacement.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ColoredCoinsOrderPlacement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsDelisting.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsDelisting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsDelivery.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsDelivery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsFeedback.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsFeedback.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsListing.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsListing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsPriceChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsPriceChange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsPurchase.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsPurchase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsQuantityChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsQuantityChange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsRefund.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$DigitalGoodsRefund.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemCurrencyDeletion.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemCurrencyDeletion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemCurrencyIssuance.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemCurrencyIssuance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemCurrencyMinting.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemCurrencyMinting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemCurrencyTransfer.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemCurrencyTransfer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemExchange.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemExchange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemExchangeBuy.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemExchangeBuy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemExchangeSell.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemExchangeSell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemPublishExchangeOffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemPublishExchangeOffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemReserveClaim.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemReserveClaim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemReserveIncrease.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$MonetarySystemReserveIncrease.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$SetPhasingOnly.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$SetPhasingOnly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ShufflingCancellation.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ShufflingCancellation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ShufflingCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ShufflingCreation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ShufflingProcessing.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ShufflingProcessing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ShufflingRecipients.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ShufflingRecipients.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ShufflingRegistration.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ShufflingRegistration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$ShufflingVerification.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$ShufflingVerification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$TaggedDataAttachment.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$TaggedDataAttachment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$TaggedDataExtend.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$TaggedDataExtend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$TaggedDataUpload.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$TaggedDataUpload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Attachment$UnencryptedDigitalGoodsDelivery.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Attachment$UnencryptedDigitalGoodsDelivery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Order$Ask$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Order$Ask$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Order$Ask$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Order$Ask$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Order$Ask.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Order$Ask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Order$Bid$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Order$Bid$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Order$Bid$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Order$Bid$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Order$Bid.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Order$Bid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$AccountControl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$AccountControl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$AccountControl$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$AccountControl$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$AccountControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$AccountControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins$ColoredCoinsOrderCancellation.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins$ColoredCoinsOrderCancellation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$ColoredCoins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$Data$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$Data$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$Data$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$Data$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$Data$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$Data$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$6$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$6$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/TransactionType$DigitalGoods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/http/IssueAsset.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/http/IssueAsset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/http/JSONResponses$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/http/JSONResponses$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/nxt/http/JSONResponses.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/nxt/http/JSONResponses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/nxt-default.properties" beforeDir="false" afterPath="$PROJECT_DIR$/conf/nxt-default.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/doc/nxt/http/GetAllOpenAskOrders.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/doc/nxt/http/GetAllOpenAskOrders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/nxt/Attachment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/nxt/Attachment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/nxt/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/nxt/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/nxt/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/nxt/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/nxt/TransactionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/nxt/TransactionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/nxt/http/IssueAsset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/nxt/http/IssueAsset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/nxt/http/JSONResponses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/nxt/http/JSONResponses.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qcUAILYO31bQfsZ8qxPFNehTkN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="D:/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../zoomer-canada/android-tv" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01b9074f-d8ee-452a-bc01-25945d572641" name="Default Changelist" comment="" />
+      <created>1617378226109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617378226109</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1617552315052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.98.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1617552315052" />
+  </component>
+</project>
